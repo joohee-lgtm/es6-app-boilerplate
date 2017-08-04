@@ -1,2 +1,2 @@
-require('./style/app.css');
-require('./app');
+require("./style/app.css");
+require("./app");

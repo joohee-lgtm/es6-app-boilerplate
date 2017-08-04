@@ -1,1 +1,3 @@
-console.log("webpack app");
+const a = ".test";
+
+document.querySelector(a);
